@@ -1,10 +1,10 @@
-# 🧬 PredCA Health Analytics Engine
+# 🧬 PredHA Health Analytics Engine
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-**PredCA** is an ultra-premium, production-grade Machine Learning web dashboard designed to forecast and analyze the prevalence of health indicators among adults with varying disability statuses. Built on top of the Centers for Disease Control and Prevention (CDC) **DHDS** (Disability and Health Data System) dataset.
+**PredHA** is an ultra-premium, production-grade Machine Learning web dashboard designed to forecast and analyze the prevalence of health indicators among adults with varying disability statuses. Built on top of the Centers for Disease Control and Prevention (CDC) **DHDS** (Disability and Health Data System) dataset.
 
 ---
 
@@ -40,8 +40,8 @@ The core objective of this project is to leverage intersectional demographic dat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PredCA.git
-   cd PredCA
+   git clone https://github.com/your-username/PredHA.git
+   cd PredHA
    ```
 
 2. **Activate your Virtual Environment:**
