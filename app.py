@@ -234,7 +234,7 @@ with st.sidebar:
     st.markdown("<br><br>", unsafe_allow_html=True)
     st.markdown("---")
     st.markdown("<p style='font-size: 0.75rem; color: #64748b; font-weight: 700; text-transform: uppercase; margin-bottom: 8px; padding-left: 5px;'>Export Data</p>", unsafe_allow_html=True)
-    st.download_button("Download Raw Dataset", df_raw.to_csv(index=False).encode('utf-8'), "DHDS_cleaned.csv", "text/csv", use_container_width=True)
+    st.download_button("Download Raw Dataset", df_raw.to_csv(index=False).encode('utf-8'), "Main_Data.csv", "text/csv", use_container_width=True)
 
 
 #4. PAGE: ABOUT THE PROJECT
