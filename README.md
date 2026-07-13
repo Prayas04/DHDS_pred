@@ -1,7 +1,7 @@
 # 🧬 PredCA Health Analytics Engine
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+[![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 **PredCA** is an ultra-premium, production-grade Machine Learning web dashboard designed to forecast and analyze the prevalence of health indicators among adults with varying disability statuses. Built on top of the Centers for Disease Control and Prevention (CDC) **DHDS** (Disability and Health Data System) dataset.
