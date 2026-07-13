@@ -29,8 +29,8 @@ The core objective of this project is to leverage intersectional demographic dat
 
 ## ⚙️ Architecture & Tech Stack
 
-- **Frontend:** [Streamlit](https://streamlit.io/) (with a custom injected Glassmorphism dark-theme CSS).
-- **Machine Learning:** [Scikit-Learn](https://scikit-learn.org/) (Random Forest, ColumnTransformer, OneHotEncoder).
+- **Frontend:** [Streamlit](https://streamlit.io/) 
+- **Machine Learning:** [Scikit-Learn](https://scikit-learn.org/) 
 - **Data Pipeline:** [Pandas](https://pandas.pydata.org/), Numpy.
 - **Data Visualization:** [Plotly Express](https://plotly.com/python/plotly-express/), Matplotlib, Seaborn.
 
