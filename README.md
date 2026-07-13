@@ -40,8 +40,7 @@ The core objective of this project is to leverage intersectional demographic dat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PredHA.git
-   cd PredHA
+   git clone https://github.com/Prayas04/DHDS_pred.git
    ```
 
 2. **Activate your Virtual Environment:**
